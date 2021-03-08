@@ -1,0 +1,10 @@
+.laclasse{
+    border: cornflowerblue solid 4px;
+    border-style: dotted;
+    opacity: 0.5;
+}
+
+
+#cen{
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+h1
+{
+    color: blue;
+    font-weight: bolder;
+}
+
+.hightlight{
+    background-color: yellow;
+    font-style: italic;
+}
+#main-menu{
+    border:2px solid black;
+    border-radius: 10px;
+    
+}
+#bis
+{
+    color: blue;
+}

@@ -1,0 +1,20 @@
+.carré {
+    height: 200px;
+    width: 200px;
+}
+
+.carré1{
+    background-color:salmon;
+}
+
+.carré2{
+    background-color: rosybrown;
+}
+
+.carré3{
+    background-color: slateblue;
+}
+
+.bord{
+    border: black solid 10px;
+}
